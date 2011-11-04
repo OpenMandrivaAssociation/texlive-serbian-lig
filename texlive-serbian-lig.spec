@@ -47,6 +47,7 @@ Serbian text written using Roman script.
 %doc %{_texmfdistdir}/doc/latex/serbian-lig/lig-list.tex
 %doc %{_texmfdistdir}/doc/latex/serbian-lig/serbian-lig.pdf
 %doc %{_texmfdistdir}/doc/latex/serbian-lig/serbian-lig.tex
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -57,3 +58,5 @@ Serbian text written using Roman script.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
