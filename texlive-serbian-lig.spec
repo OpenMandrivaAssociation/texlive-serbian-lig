@@ -48,3 +48,17 @@ Serbian text written using Roman script.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 20110703-2
++ Revision: 755914
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20110703-1
++ Revision: 719512
+- texlive-serbian-lig
+- texlive-serbian-lig
+- texlive-serbian-lig
+- texlive-serbian-lig
+
