@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-serbian-lig
 Version:	20110703
-Release:	2
+Release:	3
 Summary:	Control ligatures in Serbian
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/serbian-lig
