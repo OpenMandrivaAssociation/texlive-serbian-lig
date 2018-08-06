@@ -1,5 +1,5 @@
 Name:		texlive-serbian-lig
-Version:	20180303
+Version:	20180715
 Release:	1
 Summary:	Control ligatures in Serbian
 Group:		Publishing
