@@ -1,6 +1,6 @@
 Name:		texlive-serbian-lig
 Version:	20180715
-Release:	1
+Release:	2
 Summary:	Control ligatures in Serbian
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/serbian-lig
