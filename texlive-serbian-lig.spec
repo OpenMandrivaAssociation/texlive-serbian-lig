@@ -3,7 +3,7 @@ Version:	53127
 Release:	2
 Summary:	Control ligatures in Serbian
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/serbian-lig
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/serbian-lig
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/serbian-lig.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/serbian-lig.doc.r%{version}.tar.xz
